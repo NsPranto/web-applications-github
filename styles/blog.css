@@ -1,0 +1,17 @@
+div{
+    font-weight: bold;
+    background-color: tomato;
+    text-align: center;
+    color: black;
+    padding: 5px;
+    margin: 35px;
+    border: 1px solid black;
+    box-shadow: 12px 12px 13px black;
+    border-radius: 10px;
+}
+h2{
+    color: rgb(76, 70, 70);
+    font-size: 2em;
+    text-decoration-line: underline;
+    text-overflow: inherit;
+}
